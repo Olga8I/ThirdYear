@@ -6,10 +6,6 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-/*8.	Удалить из текста его часть, заключенную между двумя символами, кото- рые вводятся
-(например, между скобками «(» и «)» или между звездочками «*» и т.п.)
-*/
-
 
 public class Main {
 
